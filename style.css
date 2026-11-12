@@ -1,16 +1,60 @@
-{
-width: 80px;
-color: rgb(19, 255, 2);
-font-size: 5px;
-cursor: pointer;body{
-    background-color: rgb(194, 194, 194);
-}
 
-button{
-background-color: rgb(219, 185, 217);
-padding: 10px;
-border: 2px solid rgb(38, 131, 31);
-border-radius: 4px;
-height: 30px;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dakota's Website</title>
 
-}
+    <style>
+        body {
+            background-color: #101820;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 100px;
+        }
+
+        .container {
+            background-color: #1e2d24;
+            padding: 40px;
+            margin: auto;
+            width: 70%;
+            border-radius: 20px;
+            border: 3px solid #39ff14;
+        }
+
+        h1 {
+            color: #39ff14;
+            font-size: 40px;
+        }
+
+        p {
+            font-size: 22px;
+        }
+
+        .game {
+            color: orange;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+"""
+    g"rade.</≥/p>
+
+        <h2>🎮 Thanks for visiting! 🎮</h2>
+    </div>
+
+</body>
+</html><div class="container">
+        <h1>Welcome to Dakota's Website!</h1>
+
+        <p>I am Dakota.</p>
+
+        <p>My favorite game is
+            <span class="game">Call of Duty: Black Ops 6</span>.
+        </p>
+
+        <p>I'm in 7th 
