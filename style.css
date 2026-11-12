@@ -1,0 +1,16 @@
+{
+width: 80px;
+color: rgb(19, 255, 2);
+font-size: 5px;
+cursor: pointer;body{
+    background-color: rgb(194, 194, 194);
+}
+
+button{
+background-color: rgb(219, 185, 217);
+padding: 10px;
+border: 2px solid rgb(38, 131, 31);
+border-radius: 4px;
+height: 30px;
+
+}
