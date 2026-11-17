@@ -57,4 +57,28 @@
             <span class="game">Call of Duty: Black Ops 6</span>.
         </p>
 
-        <p>I'm in 7th 
+        <p>I'm in 7th  
+/* Website background and text */
+body {
+    text-align: center;
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+/* Big red button */
+button {
+    background-color: red;
+    color: white;
+    font-size: 22px;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* Button hover effect */
+button:hover {
+    background-color: darkred;
+    transform: scale(1.1);
+}
